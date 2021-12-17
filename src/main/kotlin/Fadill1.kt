@@ -5,6 +5,6 @@ class Fadill1 {
         println("=================================")
         println("Hello ! my name is $name !")
         println("I' m $age years old")
-        println("================================="
+        println("=================================")
     }
 }
